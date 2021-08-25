@@ -1,0 +1,16 @@
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.exe
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.deps.json
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.runtimeconfig.json
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.runtimeconfig.dev.json
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.dll
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\ref\Examples.dll
+C:\Users\kogo\source\repos\Examples\Examples\bin\Debug\net5.0\Examples.pdb
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.csprojAssemblyReference.cache
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.AssemblyInfoInputs.cache
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.AssemblyInfo.cs
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.csproj.CoreCompileInputs.cache
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.dll
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\ref\Examples.dll
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.pdb
+C:\Users\kogo\source\repos\Examples\Examples\obj\Debug\net5.0\Examples.genruntimeconfig.cache
