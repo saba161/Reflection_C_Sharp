@@ -11,7 +11,7 @@ namespace Examples
             private int x { get; set; }
             private int y { get; set; }
 
-            private void Const()
+            private void Const() 
             {
                 Console.WriteLine("saba + sa");
             }
