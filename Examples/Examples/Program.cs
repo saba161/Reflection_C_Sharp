@@ -29,7 +29,7 @@ namespace Examples
 
             foreach (PropertyInfo item in members)
             {
-                if (item.Name == "x")
+                if (item.Name == "x") 
                 {
                     item.SetValue(person, 5);
                     Console.WriteLine(item.GetValue(person));
